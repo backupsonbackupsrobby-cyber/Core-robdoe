@@ -1,0 +1,23 @@
+{
+    "architecture": "Sovereign Root & Namespace Liquidity Matrix",
+    "global_valuation": "$101,000,000.00 AUD",
+    "total_registry_nodes": 101,
+    "master_merkle_root": "0xcd4a167d9e7ebdd342c6b9dc0aa3ab6b69369e94b6e5d2906548b250392d758a",
+    "sample_nodes": [
+        {
+            "node": ".root-node-001",
+            "liquidity": "$1,000,000.00",
+            "micr_fingerprint": "0x5e873ec5049ba481"
+        },
+        {
+            "node": ".root-node-002",
+            "liquidity": "$1,000,000.00",
+            "micr_fingerprint": "0x8c3123bcabd9bd85"
+        },
+        {
+            "node": ".root-node-003",
+            "liquidity": "$1,000,000.00",
+            "micr_fingerprint": "0xc4ae47f445666640"
+        }
+    ]
+}
