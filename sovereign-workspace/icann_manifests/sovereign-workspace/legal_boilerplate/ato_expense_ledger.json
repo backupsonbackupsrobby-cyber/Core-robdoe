@@ -1,0 +1,16 @@
+{
+    "entity": "RobDoe Pty Ltd",
+    "compliance_framework": "Australian Taxation Office (ATO) Standards",
+    "ledger_version": "v1.0.0",
+    "created_timestamp_ns": 1790736661535820549,
+    "expenses": [
+        {
+            "date": "2026-09-30",
+            "category": "Software / Infrastructure / Tooling",
+            "description": "Local development environment and grid maintenance",
+            "amount_aud": 0.0,
+            "gst_included_aud": 0.0,
+            "receipt_hash": "0xe3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+    ]
+}
