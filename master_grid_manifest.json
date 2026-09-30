@@ -1,0 +1,24 @@
+{
+    "entity": "RobDoe Pty Ltd",
+    "abn_framework": "Australian Registered Pty Ltd",
+    "timestamp_ns": 1790745762842072917,
+    "assets": {
+        "telegram_stars_balance": 250,
+        "target_stars": 1000000
+    },
+    "acquisition_nodes": [
+        {
+            "name": "Boinkers Funnel",
+            "url": "https://t.me/boinker_bot?start=_tgr_b5bYVKEyZWM1"
+        },
+        {
+            "name": "Telegram VIP Funnel",
+            "url": "https://t.me/lissyvoss449vip2bot?start=_tgr_xgO8eeA3NjU1"
+        },
+        {
+            "name": "Klick Stars Momentum Bot",
+            "url": "https://t.me/klick_stars_momentum_bot?start=_tgr_gfQNses3YTRl"
+        }
+    ],
+    "status": "MASTER_GRID_SYNCHRONIZED"
+}
