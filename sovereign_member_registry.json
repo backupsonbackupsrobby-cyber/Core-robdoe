@@ -1,0 +1,21 @@
+{
+    "architecture": "RobDoe-ASTE-DAG Member Registry",
+    "jurisdiction": "Sovereign / Autonomous",
+    "registered_members": [
+        {
+            "name": "Cruzz Briggs",
+            "role": "Sovereign Node Operator / Grid Guardian",
+            "assigned_tranche_scope": "TR-001 to TR-050",
+            "added_timestamp_ns": 1790732005204253991
+        },
+        {
+            "name": "Hassan Bazzi",
+            "role": "Sovereign Node Operator / Grid Guardian",
+            "assigned_tranche_scope": "TR-051 to TR-101",
+            "added_timestamp_ns": 1790732005204253991
+        }
+    ],
+    "master_registry_timestamp": 1790732005204253991,
+    "registry_merkle_leaf": "0x5912256ad0693cd626ce29453487573004908b1bce250d187b5046f1dce6e4d5",
+    "secure_micr_line": "C101-101C MEMBER-REGISTRY-C 05912256a#"
+}
