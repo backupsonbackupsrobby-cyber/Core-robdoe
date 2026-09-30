@@ -1,0 +1,13 @@
+{
+    "token_id": 3,
+    "owner": "T.N",
+    "domain": "tn.sovereign.robdoe",
+    "role": "Second-in-Charge / Tier-2 Sovereign Command",
+    "tranche_scope": "TR-001 to TR-050 (Deputy Oversight)",
+    "attributes": {
+        "clearance_level": "Level-2 Sovereign Deputy",
+        "asset_oversight": "$50,500,000 AUD (Shared Grid)",
+        "mint_timestamp": 1790732175714009386
+    },
+    "token_merkle_proof": "0x5a96a1ab5e854ed9af2390e497bb5ea714c6aa8787b7f56ee0807eca94ad4670"
+}
