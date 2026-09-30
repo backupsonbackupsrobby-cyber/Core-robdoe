@@ -1,0 +1,9 @@
+{
+    "token_id": 7,
+    "owner": "James Britton",
+    "role": "Sovereign Node Operator",
+    "domain": "james.sovereign.robdoe",
+    "tranche_scope": "TR-089 to TR-092",
+    "timestamp": 1790732483200322942,
+    "merkle_leaf": "0x115bc4dd283b4b5292a7e844e97c158461a8540b6f8efe197377027934e051ec"
+}

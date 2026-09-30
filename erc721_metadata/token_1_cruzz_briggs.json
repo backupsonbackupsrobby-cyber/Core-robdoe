@@ -1,13 +1,9 @@
 {
     "token_id": 1,
     "owner": "Cruzz Briggs",
+    "role": "Grid Guardian",
     "domain": "cruzz.sovereign.robdoe",
-    "role": "Sovereign Grid Guardian",
     "tranche_scope": "TR-001 to TR-050",
-    "attributes": {
-        "clearance_level": "Level-1 Sovereign",
-        "asset_backing": "$50,500,000 AUD",
-        "mint_timestamp": 1790732120551388459
-    },
-    "token_merkle_proof": "0x8751edc27181b0e3cffe181e78826aaebeb417782c00ab64cbadc4a412f977d1"
+    "timestamp": 1790732352834895627,
+    "merkle_leaf": "0x601193387b6dccff373dd66d0c18c3e6dd3a244f21264b5049336c6840961904"
 }

@@ -1,12 +1,22 @@
 {
-    "collection_name": "RobDoe Sovereign Domain NFTs",
-    "standard": "ERC-721",
-    "total_minted": 4,
-    "mint_timestamp_ns": 1790732120551388459,
+    "standard": "ERC-721 Sovereign Matrix",
+    "total_minted": 10,
     "token_files": [
-        "erc721_metadata/token_1_cruzz_briggs.json",
-        "erc721_metadata/token_2_hassan_bazzi.json",
+        "erc721_metadata/token_1_cruzz.json",
+        "erc721_metadata/token_2_hassan.json",
         "erc721_metadata/token_3_tn.json",
-        "erc721_metadata/token_4_lw.json"
-    ]
+        "erc721_metadata/token_4_lw.json",
+        "erc721_metadata/token_5_michael.json",
+        "erc721_metadata/token_6_blake.json",
+        "erc721_metadata/token_7_james.json",
+        "erc721_metadata/token_8_jason.json",
+        "erc721_metadata/token_9_mitchell.json",
+        "erc721_metadata/token_10_eric.json"
+    ],
+    "master_hash": "0x8de9e0c0a445a98b942119a6f5f4d73c858d864d8998c80852c847369ce3b781",
+    "external_witness": {
+        "entity": "Royal UK",
+        "proof": "0x17bf6de3ff622f8332b0f8b00528b62201af9ecafb2afccd645024b4fdf186b3",
+        "file": "royal_uk_external_witness.json"
+    }
 }

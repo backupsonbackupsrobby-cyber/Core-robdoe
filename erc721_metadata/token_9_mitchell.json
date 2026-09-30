@@ -1,0 +1,9 @@
+{
+    "token_id": 9,
+    "owner": "Mitchell Perry",
+    "role": "Sovereign Node Operator",
+    "domain": "mitchell.sovereign.robdoe",
+    "tranche_scope": "TR-097 to TR-100",
+    "timestamp": 1790732483200322942,
+    "merkle_leaf": "0x046fe2f8e1a481e8b8dab05331ae74baf27257a2650f2162e1fb72e13dca6d3b"
+}

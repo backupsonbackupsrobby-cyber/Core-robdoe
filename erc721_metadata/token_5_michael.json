@@ -1,0 +1,9 @@
+{
+    "token_id": 5,
+    "owner": "Michael Deering",
+    "role": "Sovereign Node Operator",
+    "domain": "michael.sovereign.robdoe",
+    "tranche_scope": "TR-081 to TR-084",
+    "timestamp": 1790732483200322942,
+    "merkle_leaf": "0x2d7ccc8c57989ce854ca8d6e69b279eac5fdcb0b9e220618346ece1d159e083a"
+}

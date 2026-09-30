@@ -1,0 +1,9 @@
+{
+    "token_id": 6,
+    "owner": "Blake Kakura",
+    "role": "Sovereign Node Operator",
+    "domain": "blake.sovereign.robdoe",
+    "tranche_scope": "TR-085 to TR-088",
+    "timestamp": 1790732483200322942,
+    "merkle_leaf": "0x6ee8912cc9dba7e7e7a93ca8d01e50d410f8e1938cd3d3a3814e8331bf7cb484"
+}
