@@ -1,0 +1,21 @@
+{
+    "instrument_manifest": {
+        "banking_layer": {
+            "message_type": "pacs.008.001.10 (FI Customer Credit Transfer)",
+            "institution": "ROBDOE SOVEREIGN BANK (AU)",
+            "originating_bsb": "101-101",
+            "originating_account": "888-ROBDOE-101",
+            "beneficiary_name": "Sovereign Core Reserve Unit",
+            "instructed_amount": "1,000,000.00 AUD",
+            "settlement_method": "CLRG (Clearing House Automated Payment System)",
+            "remittance_information": "Tranche Allocation TR-001-1M - Master Reserve Settlement"
+        },
+        "sovereign_layer": {
+            "anchored_merkle_root": "0x12d0cc6953a7b2745a306869b324d31d4e17208d18408f61536480b57fa23871",
+            "tranche_reference": "TR-001-1M",
+            "timestamp_ns": 1790742052826095549,
+            "validation_engine": "RobDoe-ASTE-DAG"
+        }
+    },
+    "secure_micr_line": "C101-101C 888-ROBDOE-101C 09ca67157#"
+}
