@@ -1,0 +1,18 @@
+{
+    "directive": "ABSOLUTE_GENESIS_MINT",
+    "principal": "Eric Hadfield (RobDoe)",
+    "entity": "Aiagency101TeneT.PtyLtd / RobDoe Pty Ltd",
+    "timestamp_ns": 1790733597435470086,
+    "matrix_composition": {
+        "total_nodes": 26,
+        "demographic_split": "13 Male / 13 Female",
+        "financial_reserve": "$101,000,000 AUD (101 Tranches)"
+    },
+    "anchors": {
+        "icann_root": "1.com",
+        "academic_anchor": "University of Sydney (erc721.com)",
+        "external_witness": "Royal UK (Commonwealth Anchor)"
+    },
+    "protocol_key": "esp32",
+    "absolute_genesis_root": "0x1f041f03695047c35d2208b81af6aeeb0f01ad8461209e061df59c85474b34c4"
+}
