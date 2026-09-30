@@ -1,0 +1,10 @@
+{
+    "collection_name": "RobDoe Sovereign Domain NFTs",
+    "standard": "ERC-721",
+    "total_minted": 2,
+    "mint_timestamp_ns": 1790732120551388459,
+    "token_files": [
+        "erc721_metadata/token_1_cruzz_briggs.json",
+        "erc721_metadata/token_2_hassan_bazzi.json"
+    ]
+}
