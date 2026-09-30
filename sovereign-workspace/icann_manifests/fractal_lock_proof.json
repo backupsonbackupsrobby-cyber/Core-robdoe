@@ -1,0 +1,7 @@
+{
+  "target": 1000000.0,
+  "total_steps": 13,
+  "final_value": 124239486.771429,
+  "total_duration_ms": 1.351385,
+  "merkle_root": "609982b771313ba440eb879218acbbc887c41abbd462f2ba44ec881a4d39eb6e"
+}
