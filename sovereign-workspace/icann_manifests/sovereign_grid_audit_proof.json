@@ -1,0 +1,11 @@
+{
+    "audit_timestamp_ns": 1790733377285605534,
+    "audited_files": [
+        {
+            "file": "icann_collective_registry_1_com.json",
+            "sha256": "0xcdef81415e1eb1d02e8abee77cef5d0f4260c6de7229b4e1a684d99910706aca",
+            "status": "HARDENED_READ_ONLY"
+        }
+    ],
+    "master_hardening_hash": "0xef2e4ec6719d3950934fb7854cb5287af82ef38f371ccb104a4ceb9410246a40"
+}

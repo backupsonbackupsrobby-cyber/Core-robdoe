@@ -1,0 +1,20 @@
+{
+    "mint_phase": "GENESIS_ERC_721",
+    "issuing_authority": "RobDoe Pty Ltd",
+    "corporate_umbrella": "Aiagency101TeneT.PtyLtd",
+    "mint_timestamp_ns": 1790733474396321232,
+    "external_witness": {
+        "entity": "Royal UK",
+        "witness_tier": "Commonwealth External Anchor",
+        "proof_hash": "0x17bf6de3ff622f83...",
+        "verification_status": "BOUND_AND_SEALED"
+    },
+    "total_nodes": 26,
+    "demographic_split": "13 Male / 13 Female",
+    "financial_backing": "$101,000,000 AUD (101 Tranches)",
+    "network_anchors": {
+        "icann_root": "1.com",
+        "academic_root": "erc721.com (University of Sydney)"
+    },
+    "genesis_merkle_root": "0xbf5a24fa7306151969279dfc98641386bdc7e14af8dd44d53bd67d823b746ed7"
+}
