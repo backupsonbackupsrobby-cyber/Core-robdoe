@@ -1,0 +1,17 @@
+{
+    "corporate_entity": "RobDoe Pty Ltd",
+    "abn_framework": "Australian Registered Pty Ltd",
+    "invoice_number": "RD-INV-1790733827",
+    "timestamp_ns": 1790733827084821176,
+    "client": "External Commercial Client",
+    "line_items": [
+        {
+            "description": "Custom Workflow Automation & Local Script Deployment",
+            "scope": "Phase 1 Execution & Architecture Setup",
+            "amount_aud": 1500.0
+        }
+    ],
+    "payment_terms": "50% Upfront Deposit Required ($750.00 AUD) via OSKO/PayID",
+    "status": "AWAITING_DEPOSIT",
+    "invoice_integrity_hash": "0x0d8316ece1162107e4c47392884d26f754bd3057c2fe5957a6540e4c9fd9b6db"
+}
