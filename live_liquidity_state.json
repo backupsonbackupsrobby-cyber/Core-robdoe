@@ -1,7 +1,7 @@
 {
   "liquidity_data": {
     "invariant_base": 932808725,
-    "timestamp": "2026-10-09T12:10:12.219824+00:00",
+    "timestamp": "2026-10-13T11:11:23.362230+00:00",
     "pools": {
       "BTC": {
         "volume": 79.08,
@@ -31,5 +31,5 @@
     },
     "system_status": "ABSOLUTE_EQUILIBRIUM"
   },
-  "hyper_seal": "25108f1e36c35001533c6d7dc326c7d3104f9fe278715eb5b6df11a7713ca96221cea1d78a4904953ef5a59151b45529f0caa12177c9878adbb3b822ead582b7"
+  "hyper_seal": "7270e691ee7623d49aa60eabf4c6ab8d7331801bf93c4d8b4ea42dd3a10af4d0a7175afd823c002993b97b5f6c061225d21a9d885f7d021c2d643a209b4a041a"
 }
