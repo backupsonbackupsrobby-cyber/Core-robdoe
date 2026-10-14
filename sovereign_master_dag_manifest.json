@@ -1,0 +1,14 @@
+{
+    "timestamp": "$(date -u +%Y-%m-%dT%H:%M:%SZ)",
+    "authority": "robdoe.com",
+    "engine": "Robdoe Native Termux Sovereign DAG",
+    "architecture": "Merkle-DAG-SHA256",
+    "master_dag_root": "ba71e299de406806d885ee822ff16c871552cc228d7f9a16ceb3d8759d890d9d",
+    "verified_leaves": {
+        "Core-robdoe.git": "bda77d7d12a90332080071375095fb080d8cd2a6702e6ee44552863a0ca4317e",
+        "Robdoe.com.git": "8dd7e69cf77bff3e6717335270c85d60f7aee7f9e917566d94e0afd8c9d31317",
+        "sovereign-core.git": "28d25bf82af4c0e2b72f50959b2beb859e3e60b9630a5e8c603dad4ddb2b6e80",
+        "sovereign-oracle.git": "28d25bf82af4c0e2b72f50959b2beb859e3e60b9630a5e8c603dad4ddb2b6e80",
+        "sovereign-registry.git": "28d25bf82af4c0e2b72f50959b2beb859e3e60b9630a5e8c603dad4ddb2b6e80"
+    }
+}
