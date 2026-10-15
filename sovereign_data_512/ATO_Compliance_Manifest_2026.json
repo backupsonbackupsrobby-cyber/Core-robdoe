@@ -1,0 +1,36 @@
+{
+  "corporate_entity": {
+    "legal_name": "Robdoe Inc",
+    "jurisdiction": "New South Wales, Australia",
+    "regulatory_framework": "Corporations Act 2001",
+    "tax_compliance_standard": "ITAA 1936 Section 262A (5-Year Statutory Retention)"
+  },
+  "audit_metadata": {
+    "generated_utc": "2026-10-15T14:03:58Z",
+    "primary_clearing_network": "NPP / Osko",
+    "designated_payid": "+61414445812",
+    "financial_institution": "Great Southern Bank",
+    "cryptographic_hash_algorithm": "SHA-512 (1024-bit internal block processing)",
+    "master_merkle_root": "30ba92bb0887b98b98313873afec7c662d3ebddcffe7ed79877e1c4d369ff564768cdbf19e29e913765c96ec4031d83f0ade65f56caed4e25ec9554c241b82e4"
+  },
+  "accounting_treatment": {
+    "transaction_type": "INBOUND_CAPITAL_COMMITMENT",
+    "classification": "Director's Loan / Paid-Up Capital",
+    "gst_status": "Out-of-Scope / Financial Supply",
+    "amount_aud": 1000.0
+  },
+  "verified_ledger_records": [
+    {
+      "utc": "2026-10-15T14:00:53Z",
+      "algorithm": "SHA-512",
+      "amount": 1000.0,
+      "payid": "+61414445812",
+      "bank_reference": "GSB-NPP-CONFIRMED",
+      "sha512": "154d43a3c076762ac9ff9fa1abbd372dabb3e302d0c506a0e25c87e4184f9a0817d2e4a0023f40b869bdfbb33f6618621b8ec5de9a8fb9edb40458c2faa96ce1"
+    }
+  ],
+  "director_declaration": {
+    "statement": "I hereby certify that the above cryptographic ledger states an accurate, tamper-evident record of capital transactions for Robdoe Pty Ltd in accordance with Australian taxation and record-keeping mandates.",
+    "entity_signoff": "Robdoe Pty Ltd \u2014 Authorized Sovereign Ledger Engine"
+  }
+}
